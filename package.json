@@ -1,0 +1,20 @@
+{
+  "name": "prosuma",
+  "version": "1.0.0",
+  "description": "paquete de pruebas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josedev03/prosuma.git"
+  },
+  "keywords": [],
+  "author": "josedev03 <joseing03@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josedev03/prosuma/issues"
+  },
+  "homepage": "https://github.com/josedev03/prosuma#readme"
+}
