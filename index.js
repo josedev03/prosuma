@@ -1,8 +1,12 @@
+/**
+ * Gets a message
+ * @returns {string}
+ */
 function prosaludo(mensaje, destinatario = ''){
-    let mensaje = ``;
-    mesnaje += destinatario ? `Apreciad@ ${destinatario} usted ha recibido el siguiente mensaje ` : ''
-    mensaje += `${mensale}`
-    console.log(mensaje)
+    let mensajeInterno = ``;
+    mensajeInterno += destinatario ? `Apreciad@ ${destinatario} usted ha recibido el siguiente mensaje ` : ''
+    mensajeInterno += `${mensaje}`
+    console.log(mensajeInterno)
 }
 
 module.exports = {
